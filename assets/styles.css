@@ -1,0 +1,32 @@
+img {
+  width: 250px;
+  margin: 120px auto 0;
+  display: block;
+}
+
+input {
+  width: 300px;
+  height: 30px;
+  display: block;
+  margin: 15px auto 25px;
+  border-radius: 20px;
+  border: 1px solid #000;
+  padding: 5px 25px;
+}
+
+::placeholder {
+  color: lightgrey;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  background: lightgray;
+  border: none;
+  margin-right: 10px;
+  border-radius: 5px;
+  padding: 10px;
+}
